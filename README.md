@@ -14,7 +14,7 @@ This dataset contains about 10 years of daily weather observations from many loc
 * Data Preprocessing
     * Class Imbalance 
     * Feature Selection
-    * Missing Values
+    * Dealing with missing values
     * Encoding Categorical Values
     * Feature Scaling
 * Modelling
