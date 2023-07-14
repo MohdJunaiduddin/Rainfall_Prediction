@@ -20,4 +20,6 @@ This dataset contains about 10 years of daily weather observations from many loc
 * Modelling
     * Building 
     * Training
-    * Testing 
+    * Testing
+* Accuracy
+     * Checking accuracy of different models
