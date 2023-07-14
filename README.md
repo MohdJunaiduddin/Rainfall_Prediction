@@ -6,3 +6,18 @@ This dataset contains about 10 years of daily weather observations from many loc
 
 
 [Dataset link from Kaggle](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)
+
+### Procedure
+* Exploratory Data Analysis
+    * Data Exploration
+    * Visualisation
+* Data Preprocessing
+    * Class Imbalance 
+    * Feature Selection
+    * Missing Values
+    * Encoding Categorical Values
+    * Feature Scaling
+* Modelling
+    * Building 
+    * Training
+    * Testing 
