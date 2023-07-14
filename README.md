@@ -23,3 +23,8 @@ This dataset contains about 10 years of daily weather observations from many loc
     * Testing
 * Accuracy
      * Checking accuracy of different models
+### Prediction
+We will be predicting the Rainfall based on the features suitable for rainfall. By considering the ConfusionMatrix.
+
+
+<a href = "https://www.linkedin.com/in/vagicherla-sai-avinash-066037199/">
